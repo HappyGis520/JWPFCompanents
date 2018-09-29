@@ -6,6 +6,10 @@
         xmlns:local="clr-namespace:JWPF.TestView"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+        <Window.Resources>
+        <local:PathToImage x:Key="_path2Image"></local:PathToImage>
+    </Window.Resources>
+
     <Grid>
         
     </Grid>
