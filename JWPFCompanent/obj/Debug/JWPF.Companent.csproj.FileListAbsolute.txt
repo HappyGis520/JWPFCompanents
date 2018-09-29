@@ -1,0 +1,12 @@
+E:\JWPFCompanent\Code\JWPFCompanent\bin\Debug\JWPF.Companent.dll
+E:\JWPFCompanent\Code\JWPFCompanent\bin\Debug\JWPF.Companent.pdb
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent.csprojResolveAssemblyReference.cache
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent_MarkupCompile.cache
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent_MarkupCompile.lref
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\Themes\Generic.baml
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent.g.resources
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent.Properties.Resources.resources
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent.csproj.GenerateResource.Cache
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent.dll
+E:\JWPFCompanent\Code\JWPFCompanent\obj\Debug\JWPF.Companent.pdb
